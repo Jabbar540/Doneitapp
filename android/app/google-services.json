@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811991891782",
+    "project_id": "store-f750e",
+    "storage_bucket": "store-f750e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811991891782:android:ddaf94bb9fec654280ef47",
+        "android_client_info": {
+          "package_name": "com.store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811991891782-dcgutm89ov7k6mkpqsfnfmohv5s6q23t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2bG2eD47N5WTOWNYHSXzYEusC5qoZiBs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811991891782-dcgutm89ov7k6mkpqsfnfmohv5s6q23t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
